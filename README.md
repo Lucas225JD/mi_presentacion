@@ -1,4 +1,5 @@
-Soy lucas y estudio Analista en Sistemas
+Soy lucas y estudio Analista en Sistemas, tengo 20 años Y naci en la provincia de Jujuy 
+
 Mis 3 tecnologias son: IA, web, movil
 
 
